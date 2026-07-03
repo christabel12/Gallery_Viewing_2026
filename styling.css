@@ -18,7 +18,7 @@ h3 {
 }
 
 div {
-    scale: 120%;
+    scale: 90px;
     margin-top: 1000px;
 }
 
@@ -29,6 +29,8 @@ p {
     text-align: justify;
     line-height: 1.5;
     margin-top: 70px;
+    margin-left: 90px;
+    margin-right: 90px;
 }
 
 html,
