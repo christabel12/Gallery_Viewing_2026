@@ -5,6 +5,7 @@ h1 {
     font-size: 55px;
     text-align: center;
     text-transform: uppercase;
+    margin-top: 100px;
 }
 
 h3 {
@@ -14,7 +15,7 @@ h3 {
     text-align: center;
     line-height: 1.5;
     margin-bottom: 80px;
-    margin-top: 100px;
+    margin-top: 50px;
 }
 
 div {
@@ -28,7 +29,7 @@ p {
     font-size: 20px;
     text-align: justify;
     line-height: 1.5;
-    margin-top: 100px;
+    margin-top: 50px;
 }
 
 html,
