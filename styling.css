@@ -63,7 +63,7 @@ h2 {
 h3 {
     color: white;
     font-family: 'Red Hat Display', sans-serif;
-    font-size: 20px;
+    font-size: 23px;
     text-align: center;
     line-height: 1.6;
 
@@ -109,7 +109,7 @@ p {
 
 /* Increase or decrease the space below the image */
 .artist-photo {
-    margin-bottom: 50px;
+    margin-bottom: 65px;
 }
 
 /* Increase or decrease the space between paragraphs */
