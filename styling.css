@@ -26,14 +26,11 @@ p {
 }
 
 body {
-    display: contents;
-    vertical-align: middle;
-    align-content: center;
     background-color: black;
 }
 
 .carousel-item img {
-    width: 100%;
+    width: 150%;
     height: 500px;
     object-fit: cover;
 }
